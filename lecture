@@ -1,0 +1,1 @@
+1. originClass.classList.add("newClass") 하여서 클래스 추가하면 해당 클래스에 맞는 css가 불러와짐
